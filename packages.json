@@ -1,6 +1,11 @@
 [
     {
-        "package": "curl",
+        "package": "swat",
         "url": "https://github.com/sassoftware/R-swat"
+    },
+	    {
+        "package": "sasctl",
+        "url": "https://github.com/sassoftware/r-sasctl"
     }
+	
 ]
