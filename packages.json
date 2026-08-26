@@ -5,7 +5,13 @@
     },
 	    {
         "package": "sasctl",
-        "url": "https://github.com/sassoftware/r-sasctl"
+        "url": "https://github.com/sassoftware/r-sasctl",
+        "branch" : "*release"
+    },
+	    {
+        "package": "socketR",
+        "url": "https://github.com/sassoftware/socketr",
+        "branch" : "*release"
     }
 	
 ]
